@@ -1,4 +1,4 @@
-This example game was created using the following free assets:
+This game for CS583 was created using the following free assets:
 
 Art - Luis Zuno (ansimuz)'s [Warped Caves asset pack](https://ansimuz.itch.io/warped-caves)
 
